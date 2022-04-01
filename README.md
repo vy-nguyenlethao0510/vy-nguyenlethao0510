@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **UI / UX Design** and **Game Development with Unreal Engine**
+- :books: I’m currently learning **UI / UX Design** and **Game Development with Unreal Engine**
 
 - 📫 Reach me at **vy.nguyenlethao051001@gmail.com**
 
