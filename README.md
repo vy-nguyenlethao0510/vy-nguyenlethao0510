@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Nguyen Le Thao Vy :raising_hand:</h1>
-<h3 align="center">:mortar_board: I'm studying Computer Engineering - OISP program at HCMUT - VNU :mortar_board:</h3>
+<h3 align="center">:mortar_board: I'm a third-year student of Computer Engineering - OISP program at HCMUT - VNU :mortar_board:</h3>
 
 <img
   src="https://user-images.githubusercontent.com/93923972/161199531-d7873dee-39d0-4b09-94ad-29bd2b247411.png"
