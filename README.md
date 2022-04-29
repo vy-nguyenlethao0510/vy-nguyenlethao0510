@@ -8,8 +8,6 @@
   style="display: inline; margin: 0 auto;"
   align="right">
 
-- 🔭 I’m currently working on **...**
-
 - :books: Lately, I've been learning **UI / UX Design** and **Game Development with Unreal Engine**
 
 - 📫 Reach me at **vy.nguyenlethao051001@gmail.com**
