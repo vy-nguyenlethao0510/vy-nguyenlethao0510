@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Nguyen Le Thao Vy :raising_hand:</h1>
-<h3 align="center">:mortar_board: I'm a third-year student of Computer Engineering - OISP program at HCMUT - VNU :mortar_board:</h3>
+<h3 align="center">:mortar_board: I'm a fresh graduate majoring in Computer Engineering at HCMUT - VNU :mortar_board:</h3>
 
 <img
   src="https://user-images.githubusercontent.com/93923972/161199531-d7873dee-39d0-4b09-94ad-29bd2b247411.png"
@@ -8,7 +8,7 @@
   style="display: inline; margin: 0 auto;"
   align="right">
 
-- :books: Lately, I've been learning **UI / UX Design** and **Game Development with Unreal Engine**
+- :books: Lately, I've been learning **Verilog HDL** and **ASIC Development**
 
 - 📫 Reach me at **vy.nguyenlethao051001@gmail.com**
 
